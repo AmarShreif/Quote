@@ -1,0 +1,36 @@
+.demo {
+    text-align: center;
+    margin-block: 53px;
+
+    h1 {
+        font-size: 80px;
+        font-weight: bolder;
+        font-family: fantasy;
+        color: black;
+        margin-block: 35px;
+    }
+
+    p {
+        font-size: 2.2rem;
+        margin-block: 25px;
+        font-family: initial;
+        font-weight: 500;
+    }
+
+    button {
+        padding: 25px 80px;
+        background-color: blue;
+        border: 2px solid #545454;
+        transition: all .3s;
+        color: white;
+        margin-top: 10px;
+    }
+
+    button:hover {
+        background-color: green;
+    }
+
+    div {
+        margin-block: 35px;
+    }
+}
